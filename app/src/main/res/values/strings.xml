@@ -1,4 +1,23 @@
 <resources>
-    <string name="app_name">Pomodoro</string>
+    <string name="app_name">Pomodoro Walk</string>
     <string name="action_settings">Settings</string>
+
+    <string name="top_title">Pomodoro Walk</string>
+    <string name="label_description">Click "START" to begin your job</string>
+    <string name="label_insctuction"></string>
+
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+
+    <string name="pomodoro">
+        The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.\n
+        There are six steps in the technique:\n
+        1. Decide on the task to be done.\n
+        2. Set the pomodoro timer (traditionally to 25 minutes).\n
+        3. Work on the task until the timer rings.\n
+        4. After the timer rings put a checkmark on a piece of paper.\n
+        5. If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2. \n
+        6. After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.
+    </string>
 </resources>
